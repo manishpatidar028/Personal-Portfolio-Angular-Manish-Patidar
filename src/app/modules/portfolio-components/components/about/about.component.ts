@@ -13,7 +13,7 @@ export class AboutComponent implements OnInit {
   }
 
   downloadCV() {
-    window.open('https://drive.google.com/file/d/1vZ5lKucfaUZjFs1xN0iuA8I81q2grGXa/view?usp=sharing', '_blank');
+    window.open('https://drive.google.com/file/d/1i5JQ9rB8jMwp2gikAbp9C-b4yZGbIeyO/view?usp=sharing', '_blank');
   }
 
 }
